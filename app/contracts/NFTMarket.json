@@ -1,0 +1,21 @@
+[
+  {
+    "type": "function",
+    "name": "list",
+    "stateMutability": "nonpayable",
+    "inputs": [
+      { "name": "tokenId", "type": "uint256" },
+      { "name": "price", "type": "uint256" }
+    ],
+    "outputs": []
+  },
+  {
+    "type": "function",
+    "name": "buyNFT",
+    "stateMutability": "nonpayable",
+    "inputs": [
+      { "name": "tokenId", "type": "uint256" }
+    ],
+    "outputs": []
+  }
+]
